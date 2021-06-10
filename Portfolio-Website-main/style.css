@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+.footer {
+  color: #fff;
+  text-align: center;
+  font-weight: var(--font-semi);
+  padding: 4rem 0;
+}
+
+.footer__title {
+  font-size: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.footer__social {
+  margin-bottom: 4rem;
+}
+
+.footer__icon {
+  font-size: 2rem;
+  color: #fff;
+  margin: 0 var(--mb-2);
+  margin-right: 1.8rem;
+}
+
+
